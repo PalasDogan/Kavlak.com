@@ -1,0 +1,76 @@
+﻿<Window x:Class="WpfApp7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="2005" Width="800">
+    <Grid Height="2284">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="59*"/>
+            <RowDefinition Height="538*"/>
+        </Grid.RowDefinitions>
+        <ScrollViewer Margin="0,0,0,226" Grid.RowSpan="2">
+            <Grid Height="3878" RenderTransformOrigin="0.504,0.309">
+
+
+                <Grid Margin="0,0,0,1454" Panel.ZIndex="1">
+                    <Image Source="images/headback.png"  HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="250" Panel.ZIndex="2"/>
+                    <Image Source="images/h.png" HorizontalAlignment="Left" Height="30" Margin="10,52,0,0" VerticalAlignment="Top" Width="209" Panel.ZIndex="3"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="598,12,0,0" Text="  Ürünlerde ara" TextWrapping="Wrap" VerticalAlignment="Top" Background="#FFC2E4C2" Width="125" Height="18"/>
+                    <Image Source="images/arama-butonu.png" HorizontalAlignment="Left" Height="25" Margin="728,9,0,0" VerticalAlignment="Top" Width="24" Panel.ZIndex="5"/>
+                </Grid>
+                    <Grid Margin="0,502,0,2757">
+                        <GroupBox Header="GroupBox" Margin="48,98,577,277"/>
+                    <Button Content="Kampanyalar" HorizontalAlignment="Left" Margin="110,10,0,0" VerticalAlignment="Top" Height="41" Width="118" Click="Button_Click" BorderBrush="White" Background="White"/>
+                    <Button Content="Çok satanlar" HorizontalAlignment="Left" Margin="274,10,0,0" VerticalAlignment="Top" Height="41" Width="118" Background="White" BorderBrush="White" >
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="LawnGreen"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="Purple"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                                
+                            </Style> 
+                        </Button.Style> 
+                    </Button>
+                        <Button Content="Fırsat Ürünleri" HorizontalAlignment="Left" Margin="431,10,0,0" VerticalAlignment="Top" Height="41" Width="118" BorderBrush="White" Background="White"/>
+                        <Button Content="Yeni Ürünler" HorizontalAlignment="Left" Margin="588,10,0,0" VerticalAlignment="Top" Height="41" Width="118" Background="White" BorderBrush="White"/>
+                        <GroupBox Header="GroupBox" Margin="224,98,401,277"/>
+                        <GroupBox Header="GroupBox" Margin="411,98,214,277"/>
+                        <GroupBox Header="GroupBox" Margin="588,98,37,277"/>
+                    <GroupBox Header="GroupBox" Margin="48,662,577,-287"/>
+                    <GroupBox Header="GroupBox" Margin="224,662,401,-287"/>
+                    <GroupBox Header="GroupBox" Margin="411,662,214,-287"/>
+                    <GroupBox Header="GroupBox" Margin="588,662,37,-287"/>
+                    <GroupBox Header="GroupBox" Margin="48,952,577,-577"/>
+                    <GroupBox Header="GroupBox" Margin="234,952,391,-577"/>
+                    <GroupBox Header="GroupBox" Margin="411,952,214,-577"/>
+                    <GroupBox Header="GroupBox" Margin="588,952,37,-577"/>
+                </Grid>
+                <Grid Margin="0,460,0,2803">
+                    <GroupBox Header="GroupBox" Margin="48,417,577,-52"/>
+                    <GroupBox Header="GroupBox" Margin="224,417,401,-52"/>
+                    <GroupBox Header="GroupBox" Margin="411,417,214,-52"/>
+                    <GroupBox Header="GroupBox" Margin="588,417,37,-52"/>
+                </Grid>
+                <Grid Margin="0,1163,0,2445">
+                    
+                    
+                </Grid>
+                <Grid Margin="0,1438,0,2173">
+                    
+                </Grid>
+                  
+
+            </Grid>
+        </ScrollViewer>
+
+
+
+
+    </Grid>
+</Window>
