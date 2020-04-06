@@ -5,26 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp7"
         mc:Ignorable="d"
-        Title="MainWindow" Height="2005" Width="800">
-    <Grid Height="2284">
+        Title="MainWindow" Height="3682" Width="1400">
+    <Grid Height="4030">
         <Grid.RowDefinitions>
             <RowDefinition Height="59*"/>
             <RowDefinition Height="538*"/>
         </Grid.RowDefinitions>
-        <ScrollViewer Margin="0,0,0,226" Grid.RowSpan="2">
+        <ScrollViewer Grid.RowSpan="2" Height="3826" VerticalAlignment="Top">
             <Grid Height="3878" RenderTransformOrigin="0.504,0.309">
 
 
                 <Grid Margin="0,0,0,1454" Panel.ZIndex="1">
-                    <Image Source="images/headback.png"  HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="250" Panel.ZIndex="2"/>
-                    <Image Source="images/h.png" HorizontalAlignment="Left" Height="30" Margin="10,52,0,0" VerticalAlignment="Top" Width="209" Panel.ZIndex="3"/>
-                    <TextBlock HorizontalAlignment="Left" Margin="598,12,0,0" Text="  Ürünlerde ara" TextWrapping="Wrap" VerticalAlignment="Top" Background="#FFC2E4C2" Width="125" Height="18"/>
-                    <Image Source="images/arama-butonu.png" HorizontalAlignment="Left" Height="25" Margin="728,9,0,0" VerticalAlignment="Top" Width="24" Panel.ZIndex="5"/>
+                    <Image Source="images/headback.png"  HorizontalAlignment="Left" Height="45" VerticalAlignment="Top" Width="325" Panel.ZIndex="2"/>
+                    <Image Source="images/h.png" HorizontalAlignment="Left" Height="64" Margin="10,74,0,0" VerticalAlignment="Top" Width="315" Panel.ZIndex="3"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="1196,18,0,0" Text="  Ürünlerde ara" TextWrapping="Wrap" VerticalAlignment="Top" Background="#FFC2E4C2" Width="125" Height="18"/>
+                    <Image Source="images/arama-butonu.png" HorizontalAlignment="Left" Height="25" Margin="1326,15,0,0" VerticalAlignment="Top" Width="24" Panel.ZIndex="5"/>
                 </Grid>
-                    <Grid Margin="0,502,0,2757">
-                        <GroupBox Header="GroupBox" Margin="48,98,577,277"/>
-                    <Button Content="Kampanyalar" HorizontalAlignment="Left" Margin="110,10,0,0" VerticalAlignment="Top" Height="41" Width="118" Click="Button_Click" BorderBrush="White" Background="White"/>
-                    <Button Content="Çok satanlar" HorizontalAlignment="Left" Margin="274,10,0,0" VerticalAlignment="Top" Height="41" Width="118" Background="White" BorderBrush="White" >
+                <Grid Margin="0,502,0,1087">
+
+                    <Button Content="Kampanyalar" HorizontalAlignment="Left" Margin="398,10,0,0" VerticalAlignment="Top" Height="41" Width="118" Click="Button_Click" BorderBrush="White" Background="White"/>
+                    <Button Content="Çok satanlar" HorizontalAlignment="Left" Margin="574,10,0,0" VerticalAlignment="Top" Height="41" Width="118" Background="White" BorderBrush="White" >
                         <Button.Style>
                             <Style TargetType="Button">
                                 <Setter Property="Background" Value="LawnGreen"/>
@@ -33,43 +33,96 @@
                                         <Setter Property="Background" Value="Purple"/>
                                     </Trigger>
                                 </Style.Triggers>
-                                
-                            </Style> 
-                        </Button.Style> 
+
+                            </Style>
+                        </Button.Style>
                     </Button>
-                        <Button Content="Fırsat Ürünleri" HorizontalAlignment="Left" Margin="431,10,0,0" VerticalAlignment="Top" Height="41" Width="118" BorderBrush="White" Background="White"/>
-                        <Button Content="Yeni Ürünler" HorizontalAlignment="Left" Margin="588,10,0,0" VerticalAlignment="Top" Height="41" Width="118" Background="White" BorderBrush="White"/>
-                        <GroupBox Header="GroupBox" Margin="224,98,401,277"/>
-                        <GroupBox Header="GroupBox" Margin="411,98,214,277"/>
-                        <GroupBox Header="GroupBox" Margin="588,98,37,277"/>
-                    <GroupBox Header="GroupBox" Margin="48,662,577,-287"/>
-                    <GroupBox Header="GroupBox" Margin="224,662,401,-287"/>
-                    <GroupBox Header="GroupBox" Margin="411,662,214,-287"/>
-                    <GroupBox Header="GroupBox" Margin="588,662,37,-287"/>
-                    <GroupBox Header="GroupBox" Margin="48,952,577,-577"/>
-                    <GroupBox Header="GroupBox" Margin="234,952,391,-577"/>
-                    <GroupBox Header="GroupBox" Margin="411,952,214,-577"/>
-                    <GroupBox Header="GroupBox" Margin="588,952,37,-577"/>
+                    <Button Content="Fırsat Ürünleri" HorizontalAlignment="Left" Margin="749,10,0,0" VerticalAlignment="Top" Height="41" Width="118" BorderBrush="White" Background="White"/>
+                    <Button Content="Yeni Ürünler" HorizontalAlignment="Left" Margin="903,10,0,0" VerticalAlignment="Top" Height="41" Width="118" Background="White" BorderBrush="White"/>
+                    <GroupBox Header="" Margin="33,108,0,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Left" Width="300">
+                        <Image Source="images/1.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0"/>
+                    </GroupBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="78,430,0,0" Text="Kavlak Naturel Sızma 2li 5 LT Özel Fiyatlı Kampanya" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="210" FontSize="24" FontWeight="Bold"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="78,548,0,0" Text="Yağ oranı yüksek Gemlik zeytinlerinden, son sistem kontinü zeytinyağı fabrikasın.." TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="191" FontWeight="Normal" FontSize="15"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="58,664,0,0" Text="  %28" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" FontWeight="Normal" FontSize="25" Background="#D71B1A" Cursor="No" Height="37" FontFamily="Comic Sans MS"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="174,665,0,0" Text=" 289,90 TL" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="138" FontWeight="Normal" FontSize="25" Background="#EDEDED" FontFamily="Comic Sans MS"  />
+                    <GroupBox Header="" Margin="366,108,0,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Left" Width="300">
+                        <Image Source="images/2.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0"/>
+
+                    </GroupBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="411,430,0,0" Text="Kavlak Bahara Merhaba Kampanyası" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="210" FontSize="24" FontWeight="Bold"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="411,548,0,0" Text="Kavlak Zeytinden bahara merhaba! 5 Lt Kavlak Taş Baskı Soğuk Sıkım Zeytinyağı Al.." TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="191" FontWeight="Normal" FontSize="15"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="406,665,0,0" Text="  %21" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" FontWeight="Normal" FontSize="25" Background="#D71B1A" Cursor="No" Height="37" FontFamily="Comic Sans MS"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="509,665,0,0" Text=" 229,90 TL" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="138" FontWeight="Normal" FontSize="25" Background="#EDEDED" FontFamily="Comic Sans MS"  />
+                    <GroupBox Header="" Margin="721,108,0,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Left" Width="300">
+                        <Image Source="images/3.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0"/>
+
+                    </GroupBox>
+                    <GroupBox Header="" Margin="0,108,29,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Right" Width="300">
+                        <Image Source="images/4.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0"/>
+
+                    </GroupBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="766,430,0,0" Text="Kavlak Zeytinyağlı El Kremi 150 ml 2 Alana 1 Bedava" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="210" FontSize="24" FontWeight="Bold"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="1099,430,0,0" Text="Kavlak Delice Zeytinyağı 500 ml Cam Şişe" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="210" FontSize="24" FontWeight="Bold"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="766,548,0,0" Text="Kavlak Zeytinyağlı el kremi ile elleriniz yumuşacık olacak ve narinliğini gün bo.." TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="191" FontWeight="Normal" FontSize="15"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="1099,563,0,0" Text="Doğada kendiliğinden yetişen tamamen doğan deli zeytinlerin toplanmasıyla ve ilk.." TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="191" FontWeight="Normal" FontSize="15"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="766,665,0,0" Text="  %33" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" FontWeight="Normal" FontSize="25" Background="#D71B1A" Cursor="No" Height="37" FontFamily="Comic Sans MS"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="871,665,0,0" Text="  49,80 TL" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="138" FontWeight="Normal" FontSize="25" Background="#EDEDED" FontFamily="Comic Sans MS"  />
+                    <TextBlock HorizontalAlignment="Left" Margin="1135,674,0,0" Text="  99,90 TL" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="138" FontWeight="Normal" FontSize="25" Background="#EDEDED" FontFamily="Comic Sans MS"  />
+                    <GroupBox Header="" Margin="33,806,0,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Left" Width="300">
+                        <Image Source="images/5.jpg" Height="277" VerticalAlignment="Top" Margin="-6,0,4,0"/>
+                    </GroupBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="66,1107,0,0" Text="Kavlak Taş Baskı Gemlik Siyah Zeytin 3 lü Kampanya" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="234" FontSize="24" FontWeight="Bold"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="78,1251,0,0" Text="Gemlikin en lezzetli sofralık siyah zeytini Taş Baskı farkı ile ve en uygun kamp.." TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="191" FontWeight="Normal" FontSize="15"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="58,1360,0,0" Text="  %24" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" FontWeight="Normal" FontSize="25" Background="#D71B1A" Cursor="No" Height="37" FontFamily="Comic Sans MS"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="174,1361,0,0" Text=" 249,90 TL" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="138" FontWeight="Normal" FontSize="25" Background="#EDEDED" FontFamily="Comic Sans MS"  />
+                    <GroupBox Header="" Margin="366,806,0,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Left" Width="300">
+                        <Image Source="images/6.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0"/>
+                    </GroupBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="411,1105,0,0" Text="Kavlak Zeytin Ezmesi 280 gr 1 Alana 1 Bedava" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="210" FontSize="24" FontWeight="Bold"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="411,1231,0,0" Text="Kahvaltıların vazgeçilmez lezzetleri arasında yer alan zeytin ezmesi artık Kavla.." TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="191" FontWeight="Normal" FontSize="15"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="506,1360,0,0" Text="  24,90 TL" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="138" FontWeight="Normal" FontSize="25" Background="#EDEDED" FontFamily="Comic Sans MS"  />
+                    <TextBlock HorizontalAlignment="Left" Margin="406,1361,0,0" Text="  %50" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" FontWeight="Normal" FontSize="25" Background="#D71B1A" Cursor="No" Height="37" FontFamily="Comic Sans MS"/>
+                    <GroupBox Header="" Margin="721,806,0,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Left" Width="300">
+                        <Image Source="images/7.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0"/>
+                    </GroupBox>
+                    <GroupBox Header="" Margin="1054,806,0,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Left" Width="300">
+                        <Image Source="images/8.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0"/>
+                    </GroupBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="766,1105,0,0" Text="Kavlak Premium 3lü 5 LT Özel Fiyatlı Kampanya" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="210" FontSize="24" FontWeight="Bold"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="1099,1105,0,0" Text="Kavlak Taş Baskı Zeytinyağı 3lü Özel Fiyatlı Kampanya" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="210" FontSize="24" FontWeight="Bold"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="766,1231,0,0" Text="Premium Soğuk Sıkım Zeytinyağında siz istediniz biz gerçekleştirdik. 2 adet 5 LT.." TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="191" FontWeight="Normal" FontSize="15"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="1099,1231,0,0" Text="Taş değirmenlerde ezilerek soğuk sıkım yöntemi ile elde edilen gerçek Taş Baskı .." TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="191" FontWeight="Normal" FontSize="15"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="766,1359,0,0" Text="  %26" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" FontWeight="Normal" FontSize="25" Background="#D71B1A" Cursor="No" Height="37" FontFamily="Comic Sans MS"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="1086,1359,0,0" Text="  %33" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" FontWeight="Normal" FontSize="25" Background="#D71B1A" Cursor="No" Height="37" FontFamily="Comic Sans MS"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="871,1360,0,0" Text=" 459,90 TL" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="138" FontWeight="Normal" FontSize="25" Background="#EDEDED" FontFamily="Comic Sans MS"  />
+                    <TextBlock HorizontalAlignment="Left" Margin="1204,1360,0,0" Text=" 469,90 TL" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="138" FontWeight="Normal" FontSize="25" Background="#EDEDED" FontFamily="Comic Sans MS"  />
+                    <TextBlock HorizontalAlignment="Left" Margin="58,1601,0,0" Text="KATEGORİLER" TextWrapping="Wrap" VerticalAlignment="Top" Height="49" Width="154" FontWeight="Bold" FontSize="20" Foreground="Red"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="58,1641,0,0" Text="Zeytin" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="139" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="58,1669,0,0" Text="Zeytinyağı" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="139" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="58,1697,0,0" Text="Kozmetik" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="139" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="58,1725,0,0" Text="Ev yapımı" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="139" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="58,1753,0,0" Text="Turşular" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="139" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="58,1781,0,0" Text="Tatlılar&amp;Şekerlemeler" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="164" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="58,1809,0,0" Text="Şarküteri" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="139" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="274,1601,0,0" Text="KURUMSAL" TextWrapping="Wrap" VerticalAlignment="Top" Height="49" Width="154" FontWeight="Bold" FontSize="20" Foreground="Red"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="274,1641,0,0" Text="Anasayfa" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="139" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="274,1669,0,0" Text="Hakkımızda" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="139" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="274,1697,0,0" Text="Mağazalar" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="139" FontWeight="Normal" FontSize="17"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="274,1725,0,0" Text="İletişim ve İsteklerimiz" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="166" FontWeight="Normal" FontSize="17"/>
+
+
+
                 </Grid>
-                <Grid Margin="0,460,0,2803">
-                    <GroupBox Header="GroupBox" Margin="48,417,577,-52"/>
-                    <GroupBox Header="GroupBox" Margin="224,417,401,-52"/>
-                    <GroupBox Header="GroupBox" Margin="411,417,214,-52"/>
-                    <GroupBox Header="GroupBox" Margin="588,417,37,-52"/>
-                </Grid>
-                <Grid Margin="0,1163,0,2445">
-                    
-                    
-                </Grid>
-                <Grid Margin="0,1438,0,2173">
-                    
-                </Grid>
-                  
+
+
+
+
 
             </Grid>
         </ScrollViewer>
 
-
+        <Image Source="images/hritem.png" Margin="10,1500,0,1898" Grid.Row="1"/>
 
 
     </Grid>

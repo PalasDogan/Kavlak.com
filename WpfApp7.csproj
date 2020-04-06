@@ -7,12 +7,24 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="images\1.jpg" />
+    <None Remove="images\3.jpg" />
+    <None Remove="images\4.jpg" />
     <None Remove="images\arama-butonu.png" />
     <None Remove="images\h.png" />
     <None Remove="images\headback.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="images\1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="images\arama-butonu.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
