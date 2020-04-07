@@ -32,3 +32,37 @@ C:\Users\okose\Desktop\Proje\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.A
 C:\Users\okose\Desktop\Proje\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
 C:\Users\okose\Desktop\Proje\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.dll
 C:\Users\okose\Desktop\Proje\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Dilara\Source\Repos\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\Dilara\Source\Repos\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\Dilara\Source\Repos\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\Dilara\Source\Repos\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\Dilara\Source\Repos\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Dilara\Source\Repos\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.csprojAssemblyReference.cache
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Dilara\Source\Repos\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.csprojAssemblyReference.cache
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\Yeni klasör\Kavlak.com\obj\Debug\netcoreapp3.1\WpfApp7.pdb

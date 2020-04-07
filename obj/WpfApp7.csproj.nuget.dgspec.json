@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\okose\\source\\repos\\WpfApp7\\WpfApp7\\WpfApp7.csproj": {}
+    "C:\\Users\\okose\\Desktop\\Yeni klasör\\Kavlak.com\\WpfApp7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\okose\\source\\repos\\WpfApp7\\WpfApp7\\WpfApp7.csproj": {
+    "C:\\Users\\okose\\Desktop\\Yeni klasör\\Kavlak.com\\WpfApp7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\okose\\source\\repos\\WpfApp7\\WpfApp7\\WpfApp7.csproj",
+        "projectUniqueName": "C:\\Users\\okose\\Desktop\\Yeni klasör\\Kavlak.com\\WpfApp7.csproj",
         "projectName": "WpfApp7",
-        "projectPath": "C:\\Users\\okose\\source\\repos\\WpfApp7\\WpfApp7\\WpfApp7.csproj",
+        "projectPath": "C:\\Users\\okose\\Desktop\\Yeni klasör\\Kavlak.com\\WpfApp7.csproj",
         "packagesPath": "C:\\Users\\okose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\okose\\source\\repos\\WpfApp7\\WpfApp7\\obj\\",
+        "outputPath": "C:\\Users\\okose\\Desktop\\Yeni klasör\\Kavlak.com\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
