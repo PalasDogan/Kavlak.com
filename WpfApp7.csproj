@@ -8,14 +8,26 @@
 
   <ItemGroup>
     <None Remove="images\1.jpg" />
+    <None Remove="images\2.jpg" />
     <None Remove="images\3.jpg" />
     <None Remove="images\4.jpg" />
+    <None Remove="images\add-user.png" />
+    <None Remove="images\buy.png" />
     <None Remove="images\h.png" />
     <None Remove="images\headback.png" />
+    <None Remove="images\kavlaklogo.png" />
+    <None Remove="images\R1.jpg" />
+    <None Remove="images\R2.jpg" />
+    <None Remove="images\R3.jpg" />
+    <None Remove="images\R4.jpg" />
+    <None Remove="images\user.png" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="images\1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\2.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\3.jpg">
@@ -24,10 +36,34 @@
     <Resource Include="images\4.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="images\add-user.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\buy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="images\h.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\headback.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\kavlaklogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\R1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\R2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\R3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\R4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\user.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>

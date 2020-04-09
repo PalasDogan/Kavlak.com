@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Timers;
 
 
 
@@ -22,10 +23,72 @@ namespace WpfApp7
     /// </summary>
     public partial class MainWindow : Window
     {
+        public ImageSource birinci = new BitmapImage(new Uri(@"images\R1.jpg", UriKind.Relative));
+        public ImageSource ikinci = new BitmapImage(new Uri(@"images\R2.jpg", UriKind.Relative));
+        public ImageSource ucuncu = new BitmapImage(new Uri(@"images\R3.jpg", UriKind.Relative));
+        public ImageSource dorduncu = new BitmapImage(new Uri(@"images\R4.jpg", UriKind.Relative));
+        static int i = 1;
+        
+        System.Windows.Threading.DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
+        private void test()
+        {
+            dispatcherTimer.Tick += new EventHandler(dispatcherTimer_Tick);
+            dispatcherTimer.Interval = new TimeSpan(0, 0, 3);
+            dispatcherTimer.Start();
+        }
+        private void dispatcherTimer_Tick(object sender, EventArgs e)
+        {
+            ileri();
+        }
         public MainWindow()
         {
-            //InitializeComponent();
+
+
+            test();
+            InitializeComponent();
+    }
+        public void ileri()
+        {
+          
+            if (i == 1)
+            {   i++; 
+                AnaResim.Source = ikinci;   }
+            else if (i == 2)
+            {   i++;
+                AnaResim.Source = ucuncu ;
+            }
+            else if (i == 3)
+            {  i++;
+               AnaResim.Source = dorduncu;
+            }
+            else {
+                i=1;
+                AnaResim.Source = birinci;
+            }
+           
         }
+        public void Geri()
+        {
+            if (i == 1)
+            {  i=4;
+               AnaResim.Source = dorduncu;
+            }
+            else if (i == 4)
+            {     i--;
+                AnaResim.Source = ucuncu;
+            }
+            else if (i == 3)
+            {   i--;
+                AnaResim.Source = ikinci;
+            }
+            else
+            {
+  i = 1;
+                AnaResim.Source = birinci;
+            }
+
+        }
+
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -116,6 +179,18 @@ namespace WpfApp7
             yeni.Width = yeni.Width + 5;
             yeni.FontSize = yeni.FontSize + 4;
             
+        }
+
+       
+        private void Geri_Click(object sender, RoutedEventArgs e)
+        {
+            Geri();
+        }
+
+        private void ileri_Click(object sender, RoutedEventArgs e)
+        {
+            ileri();
+
         }
     }
 }

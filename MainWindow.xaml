@@ -5,42 +5,74 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp7"
         mc:Ignorable="d"
-        Title="MainWindow" Height="3682" Width="1400">
-    <Grid Height="4030">
+        Title="Kavlak.com.tr" Height="1636" Width="1427" WindowStartupLocation="Manual" SizeToContent="Manual" WindowState="Normal" ResizeMode="CanMinimize" HorizontalContentAlignment="Center">
+    <Grid Height="3981" Margin="3,0,3,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="237*"/>
+            <ColumnDefinition Width="669*"/>
+            <ColumnDefinition Width="335*"/>
+            <ColumnDefinition Width="181*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="59*"/>
             <RowDefinition Height="538*"/>
         </Grid.RowDefinitions>
-        <ScrollViewer Grid.RowSpan="2" Height="3826" VerticalAlignment="Top">
+        <ScrollViewer Grid.RowSpan="2" Height="1625" VerticalAlignment="Top" Margin="0,0,9,0" Grid.ColumnSpan="4">
+
             <Grid Height="3878" RenderTransformOrigin="0.504,0.309">
 
 
                 <Grid Margin="0,0,0,1454" Panel.ZIndex="1">
-                    <Image Source="images/headback.png"  HorizontalAlignment="Left" Height="90" VerticalAlignment="Top" Width="543" Panel.ZIndex="2"/>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="434*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="0*"/>
+                        <ColumnDefinition Width="961*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button BorderBrush="ForestGreen" HorizontalAlignment="Left" Margin="824,32,0,0" VerticalAlignment="Top" Height="57" Width="82" Background="#FF14801E" Content="ARA" Foreground="White" FontSize="22" Grid.Column="2" Grid.ColumnSpan="2" />
+                    <Image x:Name="AnaResim" Source="images/R1.jpg" Margin="95,315,110,1759" Panel.ZIndex="15" Grid.ColumnSpan="4"/>
+                    <Button x:Name="Geribtn" BorderBrush="ForestGreen" HorizontalAlignment="Left" Margin="43,463,0,0" VerticalAlignment="Top" Height="95" Width="54" Content="&lt;" Foreground="#FF535353" FontSize="36" FontWeight="Bold" RenderTransformOrigin="0.511,0.54" Click="Geri_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black"/>
+                                <GradientStop Color="#FFEEE9E9" Offset="0.959"/>
+                                <GradientStop Color="#FF373636" Offset="0.089"/>
+                                <GradientStop Color="#FF373636" Offset="0"/>
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+
+                    <Image Source="images/headback.png"  HorizontalAlignment="Left" Height="90" VerticalAlignment="Top" Width="543" Panel.ZIndex="2" Grid.ColumnSpan="4"/>
                     <Image Source="images/h.png" HorizontalAlignment="Left" Height="64" Margin="10,122,0,0" VerticalAlignment="Top" Width="315" Panel.ZIndex="3"/>
-                    <TextBox x:Name="chan" Text="Ürünlerde Ara" TextWrapping="Wrap" Margin="914,29,147,2338" Background="#FFEEEEEE" Foreground="#FF878585" FontSize="22" BorderBrush="#FF999999" BorderThickness="1,1,1,1" RenderTransformOrigin="1,0.5" TextChanged="chan_TextChanged" MouseDoubleClick="chan_MouseDoubleClick"  />
+                    <TextBox x:Name="chan" Text="Ürünlerde Ara" TextWrapping="Wrap" Margin="480,29,147,2338" Background="#FFEEEEEE" Foreground="#FF878585" FontSize="22" BorderBrush="#FF999999" BorderThickness="1,1,1,1" RenderTransformOrigin="1,0.5" TextChanged="chan_TextChanged" MouseDoubleClick="chan_MouseDoubleClick" Grid.Column="2" Grid.ColumnSpan="2"  />
 
                     <TextBlock HorizontalAlignment="Left" Margin="24,20,0,0" Text="150 TL ve Üzeri" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="175" Foreground="White" Panel.ZIndex="5" FontSize="24"/>
-                    <TextBlock HorizontalAlignment="Left" Margin="200,10,0,0" Text="KARGO BEDAVA!" TextWrapping="Wrap" VerticalAlignment="Top" Height="53" Width="280" Foreground="White" Panel.ZIndex="5" FontSize="37"/>
-                    <Button BorderBrush="ForestGreen" HorizontalAlignment="Left" Margin="1258,32,0,0" VerticalAlignment="Top" Height="57" Width="82" Background="#FF14801E" Content="ARA" Foreground="White" FontSize="22" >
-
+                    <TextBlock HorizontalAlignment="Left" Margin="200,10,0,0" Text="KARGO BEDAVA!" TextWrapping="Wrap" VerticalAlignment="Top" Height="53" Width="280" Foreground="White" Panel.ZIndex="5" FontSize="37" Grid.ColumnSpan="4"/>
+                    <Button x:Name="ileribtn" BorderBrush="ForestGreen" HorizontalAlignment="Left" Margin="850,473,0,0" VerticalAlignment="Top" Height="89" Width="46" Content="&gt;" Foreground="#FF514F4F" FontSize="36" FontWeight="Bold" RenderTransformOrigin="0.587,0.59" Click="ileri_Click" Grid.Column="2" Grid.ColumnSpan="2"  >
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black"/>
+                                <GradientStop Color="#FFEEE9E9" Offset="0.959"/>
+                                <GradientStop Color="#FF373636" Offset="0.089"/>
+                                <GradientStop Color="#FF373636" Offset="0"/>
+                            </LinearGradientBrush>
+                        </Button.Background>
                     </Button>
-                    <Image Margin="933,210,397,2175" RenderTransformOrigin="0.57,0.551" Source="images\add-user.png" Panel.ZIndex="10"/>
-                    <Label Content="Üye Ol" HorizontalAlignment="Left" Margin="990,212,0,0" VerticalAlignment="Top" FontSize="20"/>
-                    <Image Margin="1066,213,263,2172" RenderTransformOrigin="0.57,0.551" Source="images\user.png"/>
-                    <Label Content="Giriş Yap" HorizontalAlignment="Left" Margin="1120,216,0,0" VerticalAlignment="Top" FontSize="20"/>
-                    <Image Margin="1208,216,115,2168" RenderTransformOrigin="0.57,0.551" Source="images\buy.png"/>
-                    <Label Content="Sepetim" HorizontalAlignment="Left" Margin="1267,216,0,0" VerticalAlignment="Top" FontSize="20"/>
-                    <Menu Margin="120,436,113,0" Background="{x:Null}" FontSize="30" FontFamily="Cambria Math" VerticalAlignment="Top" Height="56">
+                    <Image Margin="500,210,397,2175" RenderTransformOrigin="0.57,0.551" Source="images\add-user.png" Panel.ZIndex="11" Grid.Column="2" Grid.ColumnSpan="2" />
+                    <Label Content="Üye Ol" HorizontalAlignment="Left" Margin="556,212,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2"/>
+                    <Image Margin="632,213,263,2172" RenderTransformOrigin="0.57,0.551" Source="images\user.png" Panel.ZIndex="12" Grid.Column="2" Grid.ColumnSpan="2"/>
+                    <Label Content="Giriş Yap" HorizontalAlignment="Left" Margin="686,216,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2"/>
+                    <Image Margin="774,216,115,2168" RenderTransformOrigin="0.57,0.551" Source="images\buy.png" Panel.ZIndex="13" Grid.Column="2" Grid.ColumnSpan="2"/>
+                    <Label Content="Sepetim" HorizontalAlignment="Left" Margin="834,216,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2"/>
+                    <Image Source="images/kavlaklogo.png" Margin="429,194,515,2063" Panel.ZIndex="16" Grid.ColumnSpan="4"/>
+                    <Menu Margin="112,736,121,0" Background="{x:Null}" FontSize="30" FontFamily="Cambria Math" VerticalAlignment="Top" Height="56" Grid.ColumnSpan="4">
                         <MenuItem  Header="Zeytin ↓" Width="142">
                             <MenuItem Header="Siyah Zeytin" Foreground="White" Background="ForestGreen"  FontSize="18" HorizontalAlignment="Left"  Width="194"
                           />
                             <MenuItem Header="Yeşil Zeytin" Foreground="White"  Background="ForestGreen"  FontSize="18" HorizontalAlignment="Left" Width="194"
                           />
                         </MenuItem>
-                        <MenuItem Header="Zeytinyağı" Width="171">
-
-                        </MenuItem>
+                        <MenuItem Header="Zeytinyağı" Width="171"/>
                         <MenuItem Header="Şaküteri ↓" Width="160">
                             <MenuItem Header="Peynir" Foreground="White"  Background="ForestGreen" FontSize="18" HorizontalAlignment="Left" Width="140"
                           />
@@ -51,25 +83,17 @@
                             <MenuItem Header="Diğer" Foreground="White"  Background="ForestGreen"  FontSize="18" HorizontalAlignment="Left" Width="140"
                           />
                         </MenuItem>
-                        <MenuItem Header="Turşular" Width="153">
-
-                        </MenuItem>
-                        <MenuItem Header="Kozmetik" Width="171">
-
-                        </MenuItem>
-                        <MenuItem Header="Ev Yapımı" Width="152">
-
-                        </MenuItem>
-                        <MenuItem Header="Şekerleme" RenderTransformOrigin="0.556,0.631" Height="38" Width="185">
-
-                        </MenuItem>
+                        <MenuItem Header="Turşular" Width="153"/>
+                        <MenuItem Header="Kozmetik" Width="171"/>
+                        <MenuItem Header="Ev Yapımı" Width="152"/>
+                        <MenuItem Header="Şekerleme" RenderTransformOrigin="0.556,0.631" Height="38" Width="185"/>
 
 
 
                     </Menu>
 
                 </Grid>
-                <Grid Margin="0,502,0,1087">
+                <Grid Margin="0,866,0,-2259">
 
                     <Label x:Name="kampanyalar" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="284,10,0,0" VerticalAlignment="Top" Height="48" Width="172" BorderBrush="{x:Null}" FontSize="23" RenderTransformOrigin="0.157,0.537" MouseEnter="kampanyalar_MouseEnter" Foreground="Black" MouseLeave="kampanyalar_MouseLeave" Content="Kampanyalar" Visibility="Visible">
 
@@ -100,7 +124,7 @@
 
                     </GroupBox>
                     <GroupBox Header="" Margin="0,108,29,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Right" Width="300">
-                        <Image Source="images/4.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0"/>
+                        <Image Source="images/4.jpg" Height="253" VerticalAlignment="Top" Margin="42,0,-23,0"/>
 
                     </GroupBox>
                     <TextBlock HorizontalAlignment="Left" Margin="766,430,0,0" Text="Kavlak Zeytinyağlı El Kremi 150 ml 2 Alana 1 Bedava" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="210" FontSize="24" FontWeight="Bold"/>
@@ -163,7 +187,7 @@
             </Grid>
         </ScrollViewer>
 
-        <Image Source="images/hritem.png" Margin="10,1500,0,1898" Grid.Row="1"/>
+        <Image Source="images/hritem.png" Margin="0,123,10,3465" Grid.ColumnSpan="4" Grid.Row="1"/>
 
 
     </Grid>
