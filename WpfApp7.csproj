@@ -13,14 +13,23 @@
     <None Remove="images\4.jpg" />
     <None Remove="images\add-user.png" />
     <None Remove="images\buy.png" />
+    <None Remove="images\cizgi.png" />
+    <None Remove="images\facebook.png" />
     <None Remove="images\h.png" />
     <None Remove="images\headback.png" />
+    <None Remove="images\hritem.png" />
+    <None Remove="images\in.png" />
+    <None Remove="images\inst.png" />
     <None Remove="images\kavlaklogo.png" />
+    <None Remove="images\pr.png" />
     <None Remove="images\R1.jpg" />
     <None Remove="images\R2.jpg" />
     <None Remove="images\R3.jpg" />
     <None Remove="images\R4.jpg" />
+    <None Remove="images\twitter.png" />
     <None Remove="images\user.png" />
+    <None Remove="images\yildiz.jpg" />
+    <None Remove="images\youtube.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -42,13 +51,31 @@
     <Resource Include="images\buy.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="images\cizgi.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\facebook.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="images\h.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\headback.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="images\hritem.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\in.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\inst.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="images\kavlaklogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\pr.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\R1.jpg">
@@ -63,7 +90,16 @@
     <Resource Include="images\R4.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="images\twitter.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="images\user.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\yildiz.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\youtube.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>

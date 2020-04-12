@@ -160,3 +160,53 @@ C:\Users\okose\Desktop\proje son\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfAp
 C:\Users\okose\Desktop\proje son\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
 C:\Users\okose\Desktop\proje son\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.dll
 C:\Users\okose\Desktop\proje son\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.csprojAssemblyReference.cache
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\girisyap.baml
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\girisyap.g.cs
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\siyahzeytin.g.cs
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\urun.g.cs
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\uyeol.g.cs
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\siyahzeytin.baml
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\urun.baml
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\uyeol.baml
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\Yeni klasör (3)\Kavlak.com-master\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\okose\Desktop\22.24\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\okose\Desktop\22.24\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\okose\Desktop\22.24\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\okose\Desktop\22.24\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\okose\Desktop\22.24\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\22.24\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.csprojAssemblyReference.cache
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\girisyap.baml
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\girisyap.g.cs
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\siyahzeytin.g.cs
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\urun.g.cs
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\uyeol.g.cs
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\siyahzeytin.baml
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\urun.baml
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\uyeol.baml
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.pdb
