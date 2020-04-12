@@ -83,7 +83,7 @@ namespace WpfApp7
             }
             else
             {
-  i = 1;
+                 i = 1;
                 AnaResim.Source = birinci;
             }
 
@@ -192,5 +192,85 @@ namespace WpfApp7
             ileri();
 
         }
+
+        private void uyeollbl_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.uyeol uye = new uyeol();
+            uye.ShowDialog();
+        }
+
+        private void girisyaplbl_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.girisyap giris = new girisyap();
+            giris.ShowDialog();
+        }
+
+        private void ilkfoto_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.urun urun = new urun();
+            urun.ShowDialog();
+        }
+
+        
+
+        private void siyahzeytin_Click(object sender, RoutedEventArgs e)
+        {
+                
+                WpfApp7.siyahzeytin zeytin = new siyahzeytin();
+                zeytin.ShowDialog();
+   
+
+
+
+        }
+
+        private void ilk_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.urun urun = new urun();
+            urun.ShowDialog();
+        }
+
+        private void iki_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.urun urun = new urun();
+            urun.ShowDialog();
+        }
+
+        private void uc_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.urun urun = new urun();
+            urun.ShowDialog();
+        }
+
+        private void dort_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.urun urun = new urun();
+            urun.ShowDialog();
+        }
+
+        private void bes_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.urun urun = new urun();
+            urun.ShowDialog();
+        }
+
+        private void alti_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.urun urun = new urun();
+            urun.ShowDialog();
+        }
+
+        private void yedi_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.urun urun = new urun();
+            urun.ShowDialog();
+        }
+
+        private void sekiz_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            WpfApp7.urun urun = new urun();
+            urun.ShowDialog();
+        }
     }
+    
 }

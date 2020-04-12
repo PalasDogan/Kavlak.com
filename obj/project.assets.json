@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\okose\\Desktop\\Yeni klasör (2)\\Kavlak.com-master\\Kavlak.com-master\\WpfApp7.csproj",
+      "projectUniqueName": "C:\\Users\\okose\\Desktop\\proje son\\Kavlak.com-master\\WpfApp7.csproj",
       "projectName": "WpfApp7",
-      "projectPath": "C:\\Users\\okose\\Desktop\\Yeni klasör (2)\\Kavlak.com-master\\Kavlak.com-master\\WpfApp7.csproj",
+      "projectPath": "C:\\Users\\okose\\Desktop\\proje son\\Kavlak.com-master\\WpfApp7.csproj",
       "packagesPath": "C:\\Users\\okose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\okose\\Desktop\\Yeni klasör (2)\\Kavlak.com-master\\Kavlak.com-master\\obj\\",
+      "outputPath": "C:\\Users\\okose\\Desktop\\proje son\\Kavlak.com-master\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

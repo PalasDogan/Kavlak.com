@@ -7,7 +7,33 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="girisyap.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="siyahzeytin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="urun.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="uyeol.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="girisyap.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="siyahzeytin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="urun.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="uyeol.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

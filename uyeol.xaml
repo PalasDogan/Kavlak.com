@@ -1,0 +1,76 @@
+﻿<Window x:Class="WpfApp7.uyeol"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="300"/>
+            <RowDefinition Height="100"/>
+
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" >
+            <StackPanel>
+                <Image Source="images/headback.png"  HorizontalAlignment="Left" Height="90" VerticalAlignment="Top" Width="543" Panel.ZIndex="2"/>
+                <Image Source="images/h.png" HorizontalAlignment="Left" Height="64" Margin="10,122,0,0" VerticalAlignment="Top" Width="315" Panel.ZIndex="3"/>
+                <TextBox x:Name="ch" Text="Ürünlerde Ara" TextWrapping="Wrap" Margin="914,29,147,2338" Background="#FFEEEEEE" Foreground="#FF878585" FontSize="22" BorderBrush="#FF999999" BorderThickness="1,1,1,1" RenderTransformOrigin="1,0.5"  />
+
+                <TextBlock HorizontalAlignment="Left" Margin="24,20,0,0" Text="150 TL ve Üzeri" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="175" Foreground="White" Panel.ZIndex="5" FontSize="24"/>
+                <TextBlock HorizontalAlignment="Left" Margin="200,10,0,0" Text="KARGO BEDAVA!" TextWrapping="Wrap" VerticalAlignment="Top" Height="53" Width="280" Foreground="White" Panel.ZIndex="5" FontSize="37"/>
+                <Button BorderBrush="ForestGreen" HorizontalAlignment="Left" Margin="1258,32,0,0" VerticalAlignment="Top" Height="57" Width="82" Background="#FF14801E" Content="ARA" Foreground="White" FontSize="22" >
+
+                </Button>
+                <Image Margin="933,210,397,2175" RenderTransformOrigin="0.57,0.551" Source="images\add-user.png" Panel.ZIndex="10"/>
+                <Label Content="Üye Ol" HorizontalAlignment="Left" Margin="990,212,0,0" VerticalAlignment="Top" FontSize="20"/>
+                <Image Margin="1066,213,263,2172" RenderTransformOrigin="0.57,0.551" Source="images\user.png"/>
+                <Label Content="Giriş Yap" HorizontalAlignment="Left" Margin="1120,216,0,0" VerticalAlignment="Top" FontSize="20"/>
+                <Image Margin="1208,216,115,2168" RenderTransformOrigin="0.57,0.551" Source="images\buy.png"/>
+                <Label Content="Sepetim" HorizontalAlignment="Left" Margin="1267,216,0,0" VerticalAlignment="Top" FontSize="20"/>
+                <Image Source="images/kavlaklogo.png" HorizontalAlignment="Center" VerticalAlignment="Top" Width="200" Height="150" Margin="0,175,0,0" />
+
+            </StackPanel>
+
+        </Border>
+        <Border Grid.Row="1" Height="250" Width="200" >
+            <StackPanel >
+                <TextBlock TextWrapping="Wrap" Width="150" FontSize="11" >
+                        <Span Foreground="#FF00F337" FontWeight="Bold">kavlak.com.tr</Span>
+                        <Span FontWeight="Bold">'ye Üye Olun</Span>
+                </TextBlock>
+                <Label Content="Size Özel İndirim ve Avantajlardan Faydalanın" Width="150" HorizontalAlignment="Center" FontSize="7" Foreground="#FF878787"/>
+                <TextBox Margin="3" Name="txtAd" Text="Ad*" Width="150" Background="{x:Null}" BorderBrush="#FFA4A4A4" Foreground="#FF787474" FontSize="10" TextChanged="txtAd_TextChanged" />
+                <TextBox Margin="3" Name="txtSoyad" Text="Soyad*" Width="150" Background="{x:Null}" Foreground="#FF787474" FontSize="10" TextChanged="txtSoyad_TextChanged"/>
+                <TextBox Margin="3" Name="txtMail" Text="E-Posta Adresi" Width="150" Foreground="#FF787474" FontSize="10" TextChanged="txtMail_TextChanged"/>
+                <TextBox Margin="3" Name="txtSifre" Text="Şifre*" Width="150" Foreground="#FF787474" FontSize="10"/>
+                <TextBox Margin="3" Name="txtSifretekrar" Text="Şifre Tekrar*" Width="150" Foreground="#FF787474" FontSize="10"/>
+                <TextBox Margin="3" Name="txtTelefon" Text="Cep Telefonu*" Width="150" Foreground="#FF787474" FontSize="10" TextChanged="txtTelefon_TextChanged"/>
+                <TextBlock Width="150">
+                     <RadioButton Content="Erkek" Width="75"  RenderTransformOrigin="0.5,0.532" FontSize="10" BorderBrush="#FF727171" Background="White" />
+                     <RadioButton Content="Kadın" Width="75" BorderBrush="#FF575757" Foreground="#FF171717" FontSize="10"/>
+                </TextBlock>
+                <RadioButton Width="150">
+                    <TextBlock TextWrapping="Wrap" FontSize="6">
+                        <Span Foreground="Green">Üyelik sözleşmesi</Span> şartlarını okudum ve kabul ediyorum.
+                    </TextBlock>
+                </RadioButton>
+                <RadioButton Width="150">
+                    <TextBlock TextWrapping="Wrap" FontSize="6">
+                        Tarafıma pazarlama ve tanıtım Amaçlı iletişime geçilmesine izin veriyorum.
+                    </TextBlock>
+                </RadioButton>
+                <Button Content="ÜYE OL" Click="Button_Click" Width="150" Height="25" Foreground="White" BorderBrush="{x:Null}" Background="Black"/>
+                <Border Background="#FFDDDDDD"  Width="200" Height="18" HorizontalAlignment="Center" VerticalAlignment="Bottom"  />
+            </StackPanel>
+
+
+        </Border>
+        <Label Content="Zaten Üye misiniz?" HorizontalAlignment="Left" Margin="306,256,0,0" Grid.Row="1" VerticalAlignment="Top" Height="19" Width="74" FontSize="7"/>
+        <Button Content="GİRİŞ YAP" HorizontalAlignment="Left" Margin="436,260,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0.488,0.503" Height="12" Width="40" Background="#FF00F337" IsCancel="True" FontSize="6" Foreground="White" BorderBrush="{x:Null}" Click="Button_Click_1"/>
+
+
+    </Grid>
+</Window>
