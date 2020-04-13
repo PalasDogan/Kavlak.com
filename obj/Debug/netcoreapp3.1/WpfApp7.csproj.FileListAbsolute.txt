@@ -210,3 +210,4 @@ C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.
 C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
 C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.dll
 C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\Window1.g.cs
