@@ -1,0 +1,11 @@
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_23xwjdbi_wpftmp.csprojAssemblyReference.cache
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\girisyap.baml
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\girisyap.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\Sepet.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\urun.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\uyeol.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_23xwjdbi_wpftmp_MarkupCompile.cache
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_23xwjdbi_wpftmp_MarkupCompile.lref

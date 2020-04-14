@@ -211,3 +211,140 @@ C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
 C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.dll
 C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\WpfApp7.pdb
 C:\Users\okose\Desktop\22.24\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.csprojAssemblyReference.cache
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\girisyap.baml
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\girisyap.g.cs
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\Sepet.g.cs
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.g.cs
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\urun.g.cs
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\uyeol.g.cs
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Dilara\Source\Repos\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\Dilara\Source\Repos\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\Dilara\Source\Repos\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\Dilara\Source\Repos\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\Dilara\Source\Repos\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Dilara\Source\Repos\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\Sepet.baml
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.baml
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\urun.baml
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\uyeol.baml
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\Dilara\Source\Repos\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\okose\Desktop\sonhali (1)\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\okose\Desktop\sonhali (1)\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\okose\Desktop\sonhali (1)\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\okose\Desktop\sonhali (1)\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\okose\Desktop\sonhali (1)\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\sonhali (1)\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.csprojAssemblyReference.cache
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\girisyap.baml
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\girisyap.g.cs
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\Sepet.g.cs
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.g.cs
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\urun.g.cs
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\uyeol.g.cs
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\Sepet.baml
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.baml
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\urun.baml
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\uyeol.baml
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\sonhali (1)\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.csprojAssemblyReference.cache
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\girisyap.baml
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\girisyap.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\urun.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\uyeol.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\Sepet.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.g.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\Sepet.baml
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.baml
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\urun.baml
+C:\Users\Dilara\Desktop\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\uyeol.baml
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.csprojAssemblyReference.cache
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\girisyap.baml
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\girisyap.g.cs
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\Sepet.g.cs
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.g.cs
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\urun.g.cs
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\uyeol.g.cs
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\Sepet.baml
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.baml
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\urun.baml
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\uyeol.baml
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Tacib\Desktop\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.genruntimeconfig.cache
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.csprojAssemblyReference.cache
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\girisyap.baml
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\girisyap.g.cs
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\Sepet.g.cs
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.g.cs
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\urun.g.cs
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\uyeol.g.cs
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\Sepet.baml
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\siyahzeytin.baml
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\urun.baml
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\uyeol.baml
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\okose\Desktop\Yeni klasör (6)\son halinden sonra ki hali (1)\son halinden sonra ki hali\son halinden sonra ki hali\sonhali\obj\Debug\netcoreapp3.1\WpfApp7.pdb

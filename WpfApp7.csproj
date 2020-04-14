@@ -11,13 +11,25 @@
     <None Remove="images\2.jpg" />
     <None Remove="images\3.jpg" />
     <None Remove="images\4.jpg" />
+    <None Remove="images\5.jpg" />
+    <None Remove="images\6.jpg" />
+    <None Remove="images\7.jpg" />
+    <None Remove="images\8.jpg" />
     <None Remove="images\add-user.png" />
     <None Remove="images\buy.png" />
     <None Remove="images\cizgi.png" />
     <None Remove="images\facebook.png" />
+    <None Remove="images\gemlik3lu.jpg" />
+    <None Remove="images\gemlikgold.jpg" />
+    <None Remove="images\gemlikiri.jpg" />
+    <None Remove="images\gemlikjumbo.jpg" />
+    <None Remove="images\gemlikspecial.jpg" />
+    <None Remove="images\gemlikstar.jpg" />
+    <None Remove="images\gemliktasbaski.jpg" />
     <None Remove="images\h.png" />
     <None Remove="images\headback.png" />
     <None Remove="images\hritem.png" />
+    <None Remove="images\iconkalp.png" />
     <None Remove="images\in.png" />
     <None Remove="images\inst.png" />
     <None Remove="images\kavlaklogo.png" />
@@ -26,6 +38,8 @@
     <None Remove="images\R2.jpg" />
     <None Remove="images\R3.jpg" />
     <None Remove="images\R4.jpg" />
+    <None Remove="images\tasbaskispecial.jpg" />
+    <None Remove="images\trash-icon.png" />
     <None Remove="images\twitter.png" />
     <None Remove="images\user.png" />
     <None Remove="images\yildiz.jpg" />
@@ -45,6 +59,18 @@
     <Resource Include="images\4.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="images\5.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\6.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\7.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\8.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="images\add-user.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
@@ -57,6 +83,27 @@
     <Resource Include="images\facebook.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="images\gemlik3lu.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\gemlikgold.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\gemlikiri.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\gemlikjumbo.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\gemlikspecial.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\gemlikstar.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\gemliktasbaski.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="images\h.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
@@ -64,6 +111,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\hritem.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\iconkalp.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\in.png">
@@ -88,6 +138,12 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\R4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\tasbaskispecial.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\trash-icon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\twitter.png">

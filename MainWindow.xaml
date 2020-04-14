@@ -17,7 +17,7 @@
             <RowDefinition Height="59*"/>
             <RowDefinition Height="538*"/>
         </Grid.RowDefinitions>
-        <ScrollViewer Grid.RowSpan="2" Height="1625" VerticalAlignment="Top" Margin="0,0,9,0" Grid.ColumnSpan="4">
+        <ScrollViewer Grid.RowSpan="2" Height="1613" VerticalAlignment="Top" Margin="0,0,9,0" Grid.ColumnSpan="4">
 
             <Grid Height="3878" RenderTransformOrigin="0.504,0.309">
 
@@ -44,7 +44,7 @@
 
                     <Image Source="images/headback.png"  HorizontalAlignment="Left" Height="90" VerticalAlignment="Top" Width="543" Panel.ZIndex="2" Grid.ColumnSpan="4"/>
                     <Image Source="images/h.png" HorizontalAlignment="Left" Height="64" Margin="10,122,0,0" VerticalAlignment="Top" Width="315" Panel.ZIndex="3"/>
-                    <TextBox x:Name="chan" Text="Ürünlerde Ara" TextWrapping="Wrap" Margin="480,29,147,2338" Background="#FFEEEEEE" Foreground="#FF878585" FontSize="22" BorderBrush="#FF999999" BorderThickness="1,1,1,1" RenderTransformOrigin="1,0.5" TextChanged="chan_TextChanged" MouseDoubleClick="chan_MouseDoubleClick" Grid.Column="2" Grid.ColumnSpan="2"  />
+                    <TextBox x:Name="chan" Text="Ürünlerde Ara" TextWrapping="Wrap" Margin="480,29,147,2338" Background="#FFEEEEEE" Foreground="#FF878585" FontSize="22" BorderBrush="#FF999999" BorderThickness="1,1,1,1" RenderTransformOrigin="1,0.5" TextChanged="chan_TextChanged" MouseDown="chan_MouseDown" Grid.Column="2" Grid.ColumnSpan="2"  />
 
                     <TextBlock HorizontalAlignment="Left" Margin="24,20,0,0" Text="150 TL ve Üzeri" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="175" Foreground="White" Panel.ZIndex="5" FontSize="24"/>
                     <TextBlock HorizontalAlignment="Left" Margin="200,10,0,0" Text="KARGO BEDAVA!" TextWrapping="Wrap" VerticalAlignment="Top" Height="53" Width="280" Foreground="White" Panel.ZIndex="5" FontSize="37" Grid.ColumnSpan="4"/>
@@ -62,8 +62,8 @@
                     <Label x:Name="uyeollbl" Content="Üye Ol" HorizontalAlignment="Left" Margin="556,212,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="uyeollbl_MouseDown"/>
                     <Image Margin="632,213,263,2172" RenderTransformOrigin="0.57,0.551" Source="images\user.png" Panel.ZIndex="12" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="girisyaplbl_MouseDown"/>
                     <Label x:Name="girisyaplbl" Content="Giriş Yap" HorizontalAlignment="Left" Margin="686,216,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="girisyaplbl_MouseDown"/>
-                    <Image Margin="774,216,115,2168" RenderTransformOrigin="0.57,0.551" Source="images\buy.png" Panel.ZIndex="13" Grid.Column="2" Grid.ColumnSpan="2"/>
-                    <Label Content="Sepetim" HorizontalAlignment="Left" Margin="834,216,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2"/>
+                    <Image x:Name="sepet" Margin="774,216,115,2168" RenderTransformOrigin="0.57,0.551" Source="images\buy.png" Panel.ZIndex="13" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="sepet_MouseDown"/>
+                    <Label Content="Sepetim" HorizontalAlignment="Left" Margin="834,216,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="sepet_MouseDown"/>
                     <Image Source="images/kavlaklogo.png" Margin="429,194,515,2063" Panel.ZIndex="16" Grid.ColumnSpan="4"/>
                     <Menu Margin="112,736,121,0" Background="{x:Null}" FontSize="30" FontFamily="Cambria Math" VerticalAlignment="Top" Height="56" Grid.ColumnSpan="4">
                         <MenuItem  Header="Zeytin ↓" Width="142">
@@ -105,7 +105,7 @@
 
                     <Label x:Name="yeni" Content="Yeni Ürünler" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="903,12,0,0" VerticalAlignment="Top" Height="48" Width="168" Background="White" BorderBrush="White" FontSize="23" MouseLeave="yeni_MouseLeave" MouseEnter="yeni_MouseEnter"/>
                     <GroupBox x:Name="ilk" Header="" Margin="33,108,0,0" Height="640" VerticalAlignment="Top" HorizontalAlignment="Left" Width="300" MouseDown="ilk_MouseDown">
-                        <Image x:Name="ilkfoto" Source="images/1.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0" /> 
+                        <Image x:Name="ilkfoto" Source="images/1.jpg" Height="277" VerticalAlignment="Top" Margin="0,0,-2,0" />
                     </GroupBox>
                     <TextBlock HorizontalAlignment="Left" Margin="78,430,0,0" Text="Kavlak Naturel Sızma 2li 5 LT Özel Fiyatlı Kampanya" TextWrapping="Wrap" VerticalAlignment="Top" Height="144" Width="210" FontSize="24" FontWeight="Bold" MouseDown="ilk_MouseDown" />
                     <TextBlock HorizontalAlignment="Left" Margin="78,548,0,0" Text="Yağ oranı yüksek Gemlik zeytinlerinden, son sistem kontinü zeytinyağı fabrikasın.." TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="191" FontWeight="Normal" FontSize="15"/>

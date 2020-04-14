@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp7"
         mc:Ignorable="d"
-        Title="MainWindow" Height="1636" Width="1427">
+        Title="MainWindow" Height="1663" Width="1427">
     <Grid Height="3981" Margin="3,0,3,0">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="237*"/>
@@ -17,7 +17,7 @@
             <RowDefinition Height="59*"/>
             <RowDefinition Height="538*"/>
         </Grid.RowDefinitions>
-        <ScrollViewer Grid.RowSpan="2" Height="1625" VerticalAlignment="Top" Margin="0,0,9,0" Grid.ColumnSpan="4">
+        <ScrollViewer Grid.RowSpan="2" Height="1630" VerticalAlignment="Top" Margin="0,0,9,0" Grid.ColumnSpan="4">
 
             <Grid Height="3878" RenderTransformOrigin="0.504,0.309">
 
@@ -62,8 +62,8 @@
                     <Label x:Name="uye1" Content="Üye Ol" HorizontalAlignment="Left" Margin="556,212,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="uye1_MouseDown"/>
                     <Image Margin="632,213,263,2172" RenderTransformOrigin="0.57,0.551" Source="images\user.png" Panel.ZIndex="12" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="giris1_MouseDown"/>
                     <Label x:Name="giris1" Content="Giriş Yap" HorizontalAlignment="Left" Margin="686,216,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="giris1_MouseDown"/>
-                    <Image Margin="774,216,115,2168" RenderTransformOrigin="0.57,0.551" Source="images\buy.png" Panel.ZIndex="13" Grid.Column="2" Grid.ColumnSpan="2"/>
-                    <Label Content="Sepetim1" HorizontalAlignment="Left" Margin="834,216,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2"/>
+                    <Image Margin="774,216,115,2168" RenderTransformOrigin="0.57,0.551" Source="images\buy.png" Panel.ZIndex="13" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="Image_MouseDown"/>
+                    <Label Content="Sepetim" HorizontalAlignment="Left" Margin="834,216,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Grid.ColumnSpan="2" MouseDown="Label_MouseDown"/>
                     <Image Source="images/kavlaklogo.png" Margin="429,194,515,2063" Panel.ZIndex="16" Grid.ColumnSpan="4"/>
                     <Menu Margin="112,736,121,0" Background="{x:Null}" FontSize="30" FontFamily="Cambria Math" VerticalAlignment="Top" Height="56" Grid.ColumnSpan="4">
                         <MenuItem  Header="Zeytin ↓" Width="142">

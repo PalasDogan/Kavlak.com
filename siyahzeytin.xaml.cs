@@ -65,50 +65,83 @@ namespace WpfApp7
 
         private void jumbo_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void star_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void tas_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void gold_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void uclu_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void iri_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void special_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void baski_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
+        }
+
+        private void Label_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            
+            WpfApp7.Window1 urun = new Window1();
+            this.Close();
+            urun.ShowDialog();
+        }
+
+        private void Image_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            
+            WpfApp7.Window1 urun = new Window1();
+            this.Close();
+            urun.ShowDialog();
+            
         }
     }
 }

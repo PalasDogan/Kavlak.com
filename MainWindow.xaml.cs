@@ -101,11 +101,7 @@ namespace WpfApp7
         }
        
        
-        private void chan_MouseDoubleClick(object sender, MouseButtonEventArgs e)
-        {
-
-            chan.Text = "";
-        }
+        
 
         private void kampanyalar_MouseEnter(object sender, MouseEventArgs e)
         {
@@ -207,7 +203,9 @@ namespace WpfApp7
 
         private void ilkfoto_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
@@ -215,61 +213,87 @@ namespace WpfApp7
 
         private void siyahzeytin_Click(object sender, RoutedEventArgs e)
         {
-                
-                WpfApp7.siyahzeytin zeytin = new siyahzeytin();
-                zeytin.ShowDialog();
-   
-
-
-
+            WpfApp7.siyahzeytin zeytin = new siyahzeytin();
+            this.Close();
+            zeytin.ShowDialog();
+            
         }
 
         private void ilk_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void iki_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void uc_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void dort_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void bes_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void alti_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void yedi_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
         }
 
         private void sekiz_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            WpfApp7.urun urun = new urun();
+            
+            WpfApp7.Urun urun = new Urun();
+            this.Close();
             urun.ShowDialog();
+        }
+
+        private void sepet_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            
+            WpfApp7.Window1 urun = new Window1();
+            this.Close();
+            urun.ShowDialog();
+        }
+
+        private void chan_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            chan.Text = "";
         }
     }
     
